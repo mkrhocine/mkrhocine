@@ -19,18 +19,18 @@ while(count < chance){
 
         if(x == random){
 
-            console.log('Vous avez gagné ! '); 
+            console.log('YOU WON ! '); 
             break; 
     
         } else {
             
             if(count < chance ){
 
-                console.log('Réessayez '); 
+                console.log('Try again '); 
 
             } else {
 
-                console.log('Vous avez perdu '); 
+                console.log('YOU lose '); 
 
             }
 
